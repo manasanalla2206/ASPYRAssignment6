@@ -114,7 +114,7 @@ Once both the backend and frontend are set up and running:
 ## **Contributors**
 
 The project was developed collaboratively by:
-- **Nalla Manasa** (Your Roll Number)
-- **Syed Tanzeel Adnan** (Roll Number)
-- **Sree Udhaini** (Roll Number)
+- **Nalla Manasa**
+- **Syed Tanzeel Adnan** 
+- **Sree Udhaini** 
 
